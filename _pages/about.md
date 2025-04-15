@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Chengcan.
+Hello! I'm Chengcan, a first year graduate student from nuaa. My research interest includes computer vision and multi-modal learning.
